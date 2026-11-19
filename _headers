@@ -1,0 +1,7 @@
+/assets/*.pdf
+  Content-Type: application/pdf
+  X-Content-Type-Options: nosniff
+
+/assets/*.jpg
+  Content-Type: image/jpeg
+  X-Content-Type-Options: nosniff
